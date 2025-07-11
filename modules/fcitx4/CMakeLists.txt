@@ -1,0 +1,1 @@
+message(STATUS "will add fcitx4 module")
