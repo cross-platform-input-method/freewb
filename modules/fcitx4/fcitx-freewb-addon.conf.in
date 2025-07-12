@@ -1,0 +1,8 @@
+[Addon]
+Name=Freewb
+GeneralName=Freewb
+Comment=Freewb Input Method for Fcitx
+Category=InputMethod
+Enabled=True
+Library=fcitx-@PROJECT_NAME@-im-addon.so
+Type=SharedLibrary
